@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Selamat datang Vibie"
-date:   2014-01-28 16:57:51
+date:   2018-12-02 08:08:08
 ---
 
 Bosan rasanya jika hanya terus-terusan ngoding tanpa menulis. Maka dari itu hari ini saye akan mulai menulis dan melakukan publikasi terhadap ape-ape yang telah saye pelajari dan tekuni di dunia Visual Basic .Net ini.
