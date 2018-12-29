@@ -1,14 +1,10 @@
-# Title of your blog; shows in the header
 name: "Vibie"
-
-# Description of your content (will only be used on Google Search)
 description: "Tutorial Pemrograman Visual Basic .Net Bahasa Indonesia"
 
-# Your name. Will show in your footer + sidebar
 author: "irfnrdh"
 
-url: "http://twitter.com/irfnrdh"
-baseurl: "/"
+url: "http://vibie.web.id/"
+baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Part time artist, full time creator"
@@ -28,7 +24,7 @@ ga_tracking_id:
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
-permalink: pretty
+permalink: /:title/
 plugins:
   - jekyll-paginate
 
