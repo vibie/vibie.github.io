@@ -16,9 +16,7 @@ Saye ucapkan terimong geunaseh buat korang semua. best dah kunjung blog gile ni.
 
 salam **damai** dari *dalam*.
 
-{% highlight html %}
-<header>
-  <h1>Hello World!</h1>
-</header>
+{% highlight vbnet %}
+msgbox('Hello World!)
 {% endhighlight %}
 
