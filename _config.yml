@@ -6,22 +6,18 @@ author: "irfnrdh"
 url: "http://vibie.web.id/"
 baseurl: ""
 
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Part time artist, full time creator"
 
-# Social Accounts (mine, as placeholders)
 
 twitter: irfnrdh
 github: irfnrdh
 dribbble: irfnrdh
 instagram: irfnrdh
 
-# Google Analytics (you may want to changes these with yours or even delete :)
 
 ga_domain: vibie.web.id
 ga_tracking_id: 
 
-# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
 permalink: /:title/
@@ -31,7 +27,6 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num"
 
-# SCSS
 
 sass:
   sass_dir: _scss
